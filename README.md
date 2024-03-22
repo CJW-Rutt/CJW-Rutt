@@ -1,4 +1,6 @@
-### Hi there 👋
+<h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hey, it's me! Corey J. Rutt!</h2>
+ <a href="https://www.linkedin.com/in/corey-rutt/">
+  <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <!--
 **CJW-Rutt/CJW-Rutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
