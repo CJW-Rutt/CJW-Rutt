@@ -1,6 +1,10 @@
 <h2 align="center">Hey, it's me! Corey J. Rutt! <img src="./images/waving-hand.gif" width="28"> </h2>
- <a href="https://www.linkedin.com/in/corey-rutt/">
-  <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/corey-rutt/">
+  <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+ <a href="https://github.com/CJW-Rutt/CJW-Rutt">
+    <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/CJW-Rutt?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=github&label=Follow"/>
+</a>
 
 <!--
 **CJW-Rutt/CJW-Rutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
